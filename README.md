@@ -4,17 +4,18 @@
 
 ##                                 **Who Am I?**
 
-👤 **DarkSec: Dev, Hacker, Ctf Player.**
+👤 **DarkGonark: Dev, Hacker, Ctf Player.**
 
 ## **💻 Skills**
 
-- **Languages:** Bash, Python
+- **Languages:** Python, C
 - **Operating Systems:** Linux
 - **Other:** application web
 
 ## **🚀 Projects & Achievements**
 
 - **[Pitagoras:](https://github.com/Gonark/Teorema_de_pitagoras)** - Teorema de pitagoras automatizado
+- **[Enumerador_onion:](https://github.com/Gonark/Enum_FEC)** - Enumerador de diretorios da rede TOR
 
 ## **🏆 Achievements**
 
